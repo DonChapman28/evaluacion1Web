@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Condensed:wght@100&display=swap');
+
+.container{
+    color: rgb(0, 0, 0);
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    font-weight:bolder;
+}
+
+.carousel-inner{
+
+    width: 600px;
+    height: 600px;
+}
+
+.container-carrusel{
+
+    width: 600px;
+    height: 600px;
+}
+
+.form_cliente{
+    padding-left: 20px;
+}
+
+.imagen_galeria{
+    max-width: 400px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+  }
+
+
